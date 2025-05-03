@@ -30,3 +30,5 @@ Thumbs.db
 
 # My files
 chapter*/
+dataset/*
+!dataset/.gitkeep
